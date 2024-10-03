@@ -1,4 +1,4 @@
-![Github Profile](https://github.com/vincentvicente/vincentvicente/blob/main/Github%20profile.png)
+![Github Profile](https://github.com/vincentvicente/vincentvicente/blob/main/coding.gif)
 ## Hi there 👋, I am Vincent Zhu
 
 
