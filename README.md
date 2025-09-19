@@ -12,6 +12,6 @@
 ---
 
 ## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](resume_updated.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](resume_updated%20.pdf)
 
 
