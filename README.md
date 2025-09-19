@@ -3,10 +3,15 @@
 
 
 
-- 🔭 I’m currently a computer science student at Northeastern Univeristy, Seattle Campus
-- 🌱 I’m a full stack software developer, a machine learning enthusiast.
-- 🤔 I’m currently looking for 2026 ng full-time opportunities.
-- 🔧 📄 [View My Resume (PDF)](resume_updated .pdf)
-- ⚡ Fun fact: I am also an amateur powerlifer, a traveller around the world.
-- 📫 Please reach me at my LinkedIn profile: https://www.linkedin.com/in/qiyuan-zhu-6171b9249/
+- 🔭 I’m currently a Computer Science student at **Northeastern University, Seattle Campus**  
+- 🌱 I’m a **full stack software developer**  
+- 🤔 I’m currently looking for **2026 new grad full-time opportunities**  
+- ⚡ Fun fact: I’m also an **amateur powerlifter** and a **world traveler**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/qiyuan-zhu-6171b9249/)  
+
+---
+
+## 📄 Resume  
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](resume_updated.pdf)
+
 
