@@ -17,4 +17,4 @@
   [View PDF](https://github.com/vincentvicente/vincentvicente/blob/main/resume_ai_agent_2.0.pdf)
 
 - 💻 **Full Stack / SDE Version**  
-  [View DOC](https://github.com/vincentvicente/vincentvicente/blob/main/resume_sde_fullstack.pdf)
+  [View PDF](https://github.com/vincentvicente/vincentvicente/blob/main/resume_sde_fullstack.pdf)
