@@ -11,7 +11,10 @@
 
 ---
 
-## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](resume_updated%20.pdf)
+## 📄 Resume Versions
 
+- 🤖 **AI Agent Engineer Version**  
+  [View PDF](https://github.com/vincentvicente/vincentvicente/blob/main/resume_ai_agent_2.0.pdf)
 
+- 💻 **Full Stack / SDE Version**  
+  [View DOC](https://github.com/vincentvicente/vincentvicente/blob/main/resume_sde_fullstack.doc)
