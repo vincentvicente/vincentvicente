@@ -13,8 +13,8 @@
 
 ## 📄 Resume Versions
 
-- 🤖 **AI Agent Engineer Version**  
-  [View PDF](https://github.com/vincentvicente/vincentvicente/blob/main/resume_ai_agent_2.0.pdf)
+- 🤖 **AI Engineer Version**  
+  [View PDF](https://github.com/vincentvicente/vincentvicente/blob/main/resume_ai_agent.pdf)
 
 - 💻 **Full Stack / SDE Version**  
-  [View PDF](https://github.com/vincentvicente/vincentvicente/blob/main/resume_sde_fullstack.pdf)
+  [View PDF](https://github.com/vincentvicente/vincentvicente/blob/main/resume_fullstack.pdf)
